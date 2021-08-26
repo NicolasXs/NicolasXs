@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p>My name is Nicolas and I am currently studying Information Systems at UNIFTC in Vitória da Conquista - Bahia</p>
 
  <div>
   <a href="https://github.com/NicolasXs">
