@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>My name is Nicolas and I am currently studying Information Systems at UNIFTC</p>
+<p>My name is Nicolas and I am currently studying Information Systems</p>
 
  <div>
   <a href="https://github.com/NicolasXs">
