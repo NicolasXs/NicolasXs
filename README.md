@@ -4,7 +4,7 @@
  </p>
   <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.jpg"/>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
