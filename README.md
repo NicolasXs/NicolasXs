@@ -17,7 +17,7 @@
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Evoluindo exponencialmente em <strong>Javascript</strong> e em seu ecossistema.</li>
 </ul>
-<br><br><br><br><br><br><br>
+<br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="267px">
@@ -125,7 +125,7 @@
   </tr>
  
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
@@ -159,7 +159,7 @@
   <a href="https://www.youtube.com/channel/UCe7sVLbQp66EDWK1D5e5zXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitch.tv/nicolaasxs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
-<br><br><br>
+<br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
 <img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
