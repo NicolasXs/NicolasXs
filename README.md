@@ -2,9 +2,7 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/NicolasXs/count.svg" />
  </p>
-<a href="https://github.com/NicolasXs/github-profile-background-photo" alt="NicolasXs gif repository">
   <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.jpg"/>
-</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
