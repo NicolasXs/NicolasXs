@@ -14,7 +14,7 @@
     <li>🤩️ Amo Tecnologia, Animes, Astronomia, Jogos, Músicas.</li>
     <li>💻 Estudo Sistemas de Informação na <a href="https://rodolfomori.com.br/devclub/" target="_blank">UNIFTC</a>.</li>
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Evoluindo exponencialmente em <strong>ReactJS</strong> e em seu ecossistema.</li>
+    <li>🚀 Evoluindo exponencialmente em <strong>Javascript</strong> e em seu ecossistema.</li>
 <br>
 <br>
 <br>
