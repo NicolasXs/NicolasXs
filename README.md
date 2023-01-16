@@ -160,6 +160,7 @@
   </a> -->
   <a href="https://discord.com/users/559495180651069471" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </p>
+<br><br><br>
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
 <img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
