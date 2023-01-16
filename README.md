@@ -164,7 +164,7 @@
 
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
 <img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
-<table height="495px">
+<table height="480px">
   <tr>
     <td>
     <a href="https://github.com/NicolasXs/Dev-Links_2022" target="_blank">
