@@ -1,7 +1,12 @@
 
+<a href="https://github.com/NicolasXs/github-profile-background-photo" alt="NicolasXs gif repository">
+  <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.jpg"/>
+</a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td>
       <b>
@@ -12,10 +17,10 @@
       <a href="readme-en.md">🇺🇸 English</a>
     </td>
   </tr>
-</table> -->
+</table>
 
 <ul align="left">
-    <li>🤩️ Amo Tecnologia, Animes, Lo-Fi, Xadrez.</li>
+    <li>🤩️ Amo Tecnologia, Animes, Astronomia, Jogos, Músicas.</li>
     <li>💻 Estudo Sistemas de Informação na <a href="https://rodolfomori.com.br/devclub/" target="_blank">UNIFTC</a>.</li>
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Evoluindo exponencialmente em <strong>ReactJS</strong> e em seu ecossistema.</li>
