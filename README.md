@@ -1,4 +1,7 @@
-
+<h2 align="center">🕵️‍♂️ &ensp;<i>𝚃𝚘𝚝𝚊𝚕 𝚍𝚎 𝚅𝚒𝚜𝚒𝚝𝚊𝚜 𝚗𝚘 𝚙𝚎𝚛𝚏𝚒𝚕</i></h2> <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/NicolasXs/count.svg" />
+ </p>
 <a href="https://github.com/NicolasXs/github-profile-background-photo" alt="NicolasXs gif repository">
   <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.jpg"/>
 </a>
@@ -216,8 +219,3 @@
 </div>
 </details>
 <br>
-
-<summary>🕵️‍♂️ &ensp;<i>𝚃𝚘𝚝𝚊𝚕 𝚍𝚎 𝚅𝚒𝚜𝚒𝚝𝚊𝚜 𝚗𝚘 𝚙𝚎𝚛𝚏𝚒𝚕</i></summary> <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/NicolasXs/count.svg" />
- </p>
