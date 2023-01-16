@@ -6,18 +6,6 @@
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
-<table align="center">
-  <tr>
-    <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
-    </td>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </td>
-  </tr>
-</table>
 
 <ul align="left">
     <li>🤩️ Amo Tecnologia, Animes, Astronomia, Jogos, Músicas.</li>
