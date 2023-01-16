@@ -18,8 +18,8 @@
     <li>💻 Estudo Sistemas de Informação na <a href="https://rodolfomori.com.br/devclub/" target="_blank">UNIFTC</a>.</li>
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
     <li>🚀 Evoluindo exponencialmente em <strong>Javascript</strong> e em seu ecossistema.</li>
-
-
+</ul>
+<br><br><br><br><br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="267px">
