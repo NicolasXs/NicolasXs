@@ -1,3 +1,15 @@
+ <table align="center">
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+    <td>
+      <b>
+        <a href="readme-en.md">🇺🇸 English</a>
+      </b>
+    </td>
+  </tr>
+</table>
 <h2 align="center">🕵️‍♂️ &ensp;<i>𝚃𝚘𝚝𝚊𝚕 𝚍𝚎 𝚅𝚒𝚜𝚒𝚝𝚊𝚜 𝚗𝚘 𝚙𝚎𝚛𝚏𝚒𝚕</i></h2> <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/NicolasXs/count.svg" />
