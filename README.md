@@ -30,7 +30,7 @@
     <li>🚀 Evoluindo exponencialmente em <strong>Javascript</strong> e em seu ecossistema.</li> -->
 Sou um desenvolvedor Front End. Atualmente, estou expandindo minhas habilidades em React Native e procurando sempre oferecer soluções eficientes e inovadoras em meus projetos. Além disso, tenho um grande interesse em Inteligência Artificial e planejo continuar a me aperfeiçoar nessa área no futuro.
 </ul>
-<br><br><br>
+<br><br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="267px">
