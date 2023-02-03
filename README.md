@@ -24,10 +24,11 @@
 <br><br><br>
 
 <ul align="left">
-    <li>🤩️ Amo Tecnologia, Animes, Astronomia, Astrofísica, Jogos, Músicas.</li>
+<!--     <li>🤩️ Amo Tecnologia, Animes, Astronomia, Astrofísica, Jogos, Músicas.</li>
     <li>💻 Estudo Sistemas de Informação na <a href="https://www.uniftc.edu.br/graduacao/sistemas-de-informacao" target="_blank">UNIFTC</a>.</li>
     <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Evoluindo exponencialmente em <strong>Javascript</strong> e em seu ecossistema.</li>
+    <li>🚀 Evoluindo exponencialmente em <strong>Javascript</strong> e em seu ecossistema.</li> -->
+Sou um desenvolvedor Front End. Atualmente, estou expandindo minhas habilidades em React Native e procurando sempre oferecer soluções eficientes e inovadoras em meus projetos. Além disso, tenho um grande interesse em Inteligência Artificial e planejo continuar a me aperfeiçoar nessa área no futuro.
 </ul>
 <br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
