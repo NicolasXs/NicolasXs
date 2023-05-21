@@ -1,4 +1,5 @@
- <table align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A2662&height=120&section=header"/>
+<table align="center">
   <tr>
     <td>
       <a href="README.md">🇧🇷 Português</a>
@@ -219,3 +220,4 @@
   ![Snake animation](https://github.com/NicolasXs/NicolasXs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A2662&height=120&section=footer"/>
