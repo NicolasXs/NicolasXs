@@ -24,10 +24,6 @@
 <br><br><br>
 
 <ul align="left">
-<!--     <li>🤩️ Amo Tecnologia, Animes, Astronomia, Astrofísica, Jogos, Músicas.</li>
-    <li>💻 Estudo Sistemas de Informação na <a href="https://www.uniftc.edu.br/graduacao/sistemas-de-informacao" target="_blank">UNIFTC</a>.</li>
-    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
-    <li>🚀 Evoluindo exponencialmente em <strong>Javascript</strong> e em seu ecossistema.</li> -->
 Sou um desenvolvedor Front End. Atualmente, estou expandindo minhas habilidades em React Native e procurando sempre oferecer soluções eficientes e inovadoras em meus projetos. Além disso, tenho um grande interesse em Inteligência Artificial e planejo continuar a me aperfeiçoar nessa área no futuro.
 </ul>
 <br><br><br><br>
@@ -153,21 +149,6 @@ Sou um desenvolvedor Front End. Atualmente, estou expandindo minhas habilidades 
   <a href="https://www.linkedin.com/in/Nicolasxs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge">
-  </a>
-  <a href="https://wa.me/5577997024742?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp badge">
-  </a>
-  <a href="https://www.instagram.com/nicolas.lacerd4/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
-  </a>
-  <!-- <a href="https://line.me/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line badge">
-  </a>
-  <a href="https://stackoverflow.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="Stack Overflow badge">
-  </a> -->
   <a href="https://discord.com/users/559495180651069471" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCe7sVLbQp66EDWK1D5e5zXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitch.tv/nicolaasxs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
