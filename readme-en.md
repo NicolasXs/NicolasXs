@@ -25,10 +25,6 @@
 <br><br><br>
 
 <ul align="left">
-<!--     <li>🤩️ I love Technology, Anime, Astronomy, Astrophysics, Games, Music.</li>
-    <li>💻 Study Information Systems at <a href="https://www.uniftc.edu.br/graduacao/sistemas-de-informacao" target="_blank">UNIFTC</a>.</li>
-    <li>🔮 I'm specializing in Front-end, but I have good notions of Back-end and Mobile, as my long-term goal is to become Full-Stack.</li>
-    <li>🚀 Evolving exponentially in <strong>Javascript</strong> and its ecosystem.</li> -->
  I'm a Front-End developer. Currently, I'm expanding my skills in React Native and always looking to offer efficient and innovative solutions in my projects. Also, I have a strong interest in Artificial Intelligence and intend to continue to improve in this area in the future.
 </ul>
 <br><br><br><br>
@@ -154,21 +150,6 @@
   <a href="https://www.linkedin.com/in/Nicolasxs/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge">
-  </a>
-  <a href="https://wa.me/5577997024742?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp badge">
-  </a>
-  <a href="https://www.instagram.com/nicolas.lacerd4/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
-  </a>
-  <!-- <a href="https://line.me/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line badge">
-  </a>
-  <a href="https://stackoverflow.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="Stack Overflow badge">
-  </a> -->
   <a href="https://discord.com/users/559495180651069471" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCe7sVLbQp66EDWK1D5e5zXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitch.tv/nicolaasxs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
