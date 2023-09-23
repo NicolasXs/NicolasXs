@@ -25,7 +25,7 @@
 <br><br><br>
 
 <ul align="left">
-Sou um desenvolvedor Front End. Atualmente, estou expandindo minhas habilidades em React Native e procurando sempre oferecer soluções eficientes e inovadoras em meus projetos. Além disso, tenho um grande interesse em Inteligência Artificial e planejo continuar a me aperfeiçoar nessa área no futuro.
+Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhando com tecnologias como React, PHP/Laravel, Node.js e TypeScript. Paralelamente, estou dedicado a aprimorar minha base de conhecimento e habilidades, cursando o bacharelado em Sistemas de Informação.
 </ul>
 <br><br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
