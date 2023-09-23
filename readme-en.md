@@ -26,7 +26,7 @@
 <br><br><br>
 
 <ul align="left">
- I'm a Front-End developer. Currently, I'm expanding my skills in React Native and always looking to offer efficient and innovative solutions in my projects. Also, I have a strong interest in Artificial Intelligence and intend to continue to improve in this area in the future.
+Currently, I'm immersed in the world of software development, working with technologies such as React, PHP/Laravel, Node.js, and TypeScript. At the same time, I'm committed to enhancing my knowledge base and skills by pursuing a bachelor's degree in Information Systems
 </ul>
 <br><br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
