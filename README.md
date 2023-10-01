@@ -141,9 +141,9 @@ Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhand
 <img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="./Nicolas Ferreira Lacerda - Currículo 2023.1.pdf" target="_blank">
+<!--   <a href="./Nicolas Ferreira Lacerda - Currículo 2023.1.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
-  </a>
+  </a> -->
   <a href="mailto:nicolaasxs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
   </a>
