@@ -159,6 +159,20 @@ Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhand
 <h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
 <img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
 <table height="495px">
+   <tr>
+    <td>
+    <a href="https://github.com/NicolasXs/Marcador" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=Marcador&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/NicolasXs/react-map" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=react-map&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
   <tr>
     <td>
     <a href="https://github.com/NicolasXs/Dev-Links_2022" target="_blank">
