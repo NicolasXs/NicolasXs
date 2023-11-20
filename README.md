@@ -25,7 +25,7 @@
 <br><br><br>
 
 <ul align="left">
-Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhando com tecnologias como React, PHP/Laravel, Node.js e TypeScript. Paralelamente, estou dedicado a aprimorar minha base de conhecimento e habilidades, cursando o bacharelado em Sistemas de Informação.
+Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhando com tecnologias como React, Node.js e TypeScript. Paralelamente, estou dedicado a aprimorar minha base de conhecimento e habilidades, cursando o bacharelado em Sistemas de Informação.
 </ul>
 <br><br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
