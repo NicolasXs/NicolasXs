@@ -215,8 +215,6 @@ Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhand
 <details open>
 <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=NicolasXs&theme=tokyo-night&hide_border=true">
-<br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasXs&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=nicolasxs&show_icons=true&custom_title=NicolasXs's%20Github%20Stats&theme=tokyonight&hide_border=true">
