@@ -1,149 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A2662&height=120&section=header"/>
-<table align="center">
-  <tr>
-    <td>
-      <a href="README.md">🇧🇷 Português</a>
-    </td>
-    <td>
-      <b>
-        <a href="readme-en.md">🇺🇸 English</a>
-      </b>
-    </td>
-  </tr>
-</table>
-<h2 align="center">🕵️‍♂️ &ensp;<i>𝚃𝚘𝚝𝚊𝚕 𝚍𝚎 𝚅𝚒𝚜𝚒𝚝𝚊𝚜 𝚗𝚘 𝚙𝚎𝚛𝚏𝚒𝚕</i></h2> <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/NicolasXs/count.svg" />
- </p>
-  <img align="left" width="100%" alt="about" src="./images/headerBackground-pt.jpg"/>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
+<h2 >📇 About</h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
 
 <br><br><br>
 
 <ul align="left">
-Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhando com tecnologias como React, Node.js e TypeScript. Paralelamente, estou dedicado a aprimorar minha base de conhecimento e habilidades, cursando o bacharelado em Sistemas de Informação.
+Currently, I'm immersed in the world of software development, working with technologies such as React, PHP/Laravel, Node.js, and TypeScript. At the same time, I'm committed to enhancing my knowledge base and skills by pursuing a bachelor's degree in Information Systems
 </ul>
 <br><br><br><br>
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="267px">
-  <tr>
-  </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>CSS3</pre>
-        </b>
-      </sub>
-      </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-       <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
-        </b>
-      </sub>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NextJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
-      <sub>
-        <b>
-          <pre>ViteJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-    <tr>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
-      <sub>
-        <b>
-          <pre>React<br>Native</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td>
-       <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br>
-      <sub>
-        <b>
-          <pre>Express</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
- 
-</table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
-<br><br>
-<p align="center">
-<!--   <a href="./Nicolas Ferreira Lacerda - Currículo 2023.1.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Resume badge">
-  </a> -->
+
+# 📩 Contact
+<p>
   <a href="mailto:nicolaasxs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
   </a>
@@ -154,81 +22,25 @@ Atualmente, estou mergulhado no mundo do desenvolvimento de software, trabalhand
   <a href="https://www.youtube.com/channel/UCe7sVLbQp66EDWK1D5e5zXg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitch.tv/nicolaasxs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
-<br><br>
+<br> 
 
-<h2 align="center">🗃️ &ensp; <i>Ｐｒｏｊｅｔｏｓ</i></h2>
-<img align="right" src="./images/projects-wallpaper.gif" height="496px" alt="projects image">
-<table height="495px">
-   <tr>
-    <td>
-    <a href="https://github.com/NicolasXs/Marcador" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=Marcador&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-   <tr>
-    <td>
-    <a href="https://github.com/NicolasXs/react-map" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=react-map&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/NicolasXs/Dev-Links_2022" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=Dev-Links_2022&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/NicolasXs/Oficina-NestJS-FTC_2022" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=Oficina-NestJS-FTC_2022&theme=tokyonight&hide_border=true">
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/NicolasXs/Curso-NextJS_2022" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=Curso-NextJS_2022&theme=tokyonight&hide_border=true">
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/NicolasXs/ProjetoPOO" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=ProjetoPOO&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/NicolasXs/secretword_2022" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasXs&repo=secretword_2022&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-</table>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
 <br>
 
-<h2 align="center">
-<details open>
-<summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
-<br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasXs&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=nicolasxs&show_icons=true&custom_title=NicolasXs's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasXs&theme=tokyonight&hide_border=true">
+# 📊 GitHub Stats:
+ <div>
+   <img src='https://github-readme-stats.vercel.app/api?username=nicolasxs&theme=dark&hide_border=true&include_all_commits=true&count_private=true'/>
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasxs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact'/>
+ </div>
 </div>
-</details>
+
 <br>
 
-<div> 
-  <a href = "mailto:nicolaasxs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/nicolasxs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-
-  ![Snake animation](https://github.com/NicolasXs/NicolasXs/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# 🕵️‍♂️ Total profile views
+<br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/NicolasXs/count.svg" />
+ </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A2662&height=120&section=footer"/>
